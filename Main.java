@@ -3,4 +3,4 @@ String solutation="Hola mundo";
 System.outprintln(salutation);
 String farewell = "Adios con el corazon";
 System.outprintln(farewell);
-
+}
